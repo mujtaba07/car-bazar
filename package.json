@@ -1,0 +1,25 @@
+{
+  "name": "mujtaba_sayyed",
+  "version": "1.0.0",
+  "description": "car bazar project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "Mujtaba Sayyed",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "parcel": "^2.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mujtaba07/car-bazar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mujtaba07/car-bazar/issues"
+  },
+  "homepage": "https://github.com/mujtaba07/car-bazar#readme"
+}
